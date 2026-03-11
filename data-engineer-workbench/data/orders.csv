@@ -1,0 +1,26 @@
+order_id,customer_id,product_id,order_date,category,quantity,unit_price,discount,revenue,status,channel,region
+ORD-000001,CUST-00034,PROD-0012,2024-01-15,Electronics,2,299.99,0.1,539.98,completed,web,North America
+ORD-000002,CUST-00078,PROD-0045,2024-01-15,Clothing,3,49.99,0.0,149.97,completed,mobile,Europe
+ORD-000003,CUST-00112,PROD-0089,2024-01-16,Home & Garden,1,189.99,0.15,161.49,shipped,web,Asia Pacific
+ORD-000004,CUST-00201,PROD-0023,2024-01-16,Electronics,1,599.99,0.0,599.99,processing,marketplace,North America
+ORD-000005,CUST-00056,PROD-0067,2024-01-17,Sports,4,34.99,0.2,111.97,completed,web,Latin America
+ORD-000006,CUST-00189,PROD-0034,2024-01-17,Books,2,24.99,0.0,49.98,completed,mobile,Europe
+ORD-000007,CUST-00099,PROD-0012,2024-01-18,Electronics,1,299.99,0.05,284.99,completed,web,North America
+ORD-000008,CUST-00145,PROD-0078,2024-01-18,Clothing,5,19.99,0.1,89.96,cancelled,mobile,Asia Pacific
+ORD-000009,CUST-00023,PROD-0056,2024-01-19,Home & Garden,2,79.99,0.0,159.98,shipped,web,North America
+ORD-000010,CUST-00167,PROD-0091,2024-01-19,Sports,1,149.99,0.25,112.49,completed,marketplace,Europe
+ORD-000011,CUST-00041,PROD-0003,2024-01-20,Electronics,3,99.99,0.1,269.97,completed,web,North America
+ORD-000012,CUST-00088,PROD-0067,2024-01-20,Sports,2,34.99,0.0,69.98,completed,mobile,Latin America
+ORD-000013,CUST-00134,PROD-0045,2024-01-21,Clothing,1,49.99,0.15,42.49,shipped,web,Europe
+ORD-000014,CUST-00198,PROD-0089,2024-01-21,Home & Garden,3,189.99,0.2,455.98,completed,wholesale,Asia Pacific
+ORD-000015,CUST-00062,PROD-0012,2024-01-22,Electronics,2,299.99,0.0,599.98,completed,web,North America
+ORD-000016,CUST-00115,PROD-0023,2024-01-22,Electronics,1,599.99,0.1,539.99,refunded,mobile,Europe
+ORD-000017,CUST-00077,PROD-0056,2024-01-23,Home & Garden,4,79.99,0.05,304.00,completed,web,North America
+ORD-000018,CUST-00183,PROD-0078,2024-01-23,Clothing,2,19.99,0.0,39.98,completed,marketplace,Latin America
+ORD-000019,CUST-00029,PROD-0034,2024-01-24,Books,3,24.99,0.1,67.47,completed,web,Asia Pacific
+ORD-000020,CUST-00156,PROD-0091,2024-01-24,Sports,1,149.99,0.0,149.99,shipped,mobile,Europe
+ORD-000021,CUST-00093,PROD-0003,2024-01-25,Electronics,2,99.99,0.15,169.98,completed,web,North America
+ORD-000022,CUST-00047,PROD-0045,2024-01-25,Clothing,4,49.99,0.25,149.97,completed,mobile,Europe
+ORD-000023,CUST-00171,PROD-0089,2024-01-26,Home & Garden,1,189.99,0.0,189.99,processing,web,Asia Pacific
+ORD-000024,CUST-00109,PROD-0067,2024-01-26,Sports,3,34.99,0.1,94.47,completed,wholesale,Latin America
+ORD-000025,CUST-00038,PROD-0012,2024-01-27,Electronics,1,299.99,0.2,239.99,completed,web,North America
